@@ -1,1 +1,0 @@
-200.7.0.0/22,BR,BR-PR,Dois Vizinhos
